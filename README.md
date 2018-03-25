@@ -1,5 +1,7 @@
-Logan Porter
+Name: Logan Porter
 
-Assignment 5
+Class: CIS 385
 
-CIS 385
+Date Created: 03/20/18
+
+Description of Project: Creating an angular page
